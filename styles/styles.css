@@ -126,3 +126,51 @@ body {
     font-size: 30px;
     font-weight: 700;
 }
+
+/* Last image part */
+.watch{
+    margin-top: 136px;
+    margin-bottom: 130px;
+}
+
+.gradient-image {
+    background-image: url('../images/gradient2.png');
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.img-title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 0px;
+    width: 459px;
+    margin-bottom: 0px;
+}
+
+
+.contact-button {
+    color: #F15B22;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FFF;
+    padding: 21px 36px;
+    border: none;
+}
+.call-now{
+    padding-left: 294px;
+    padding-bottom: 59px;
+    margin-top: 24px;
+}
+.gradient-title{
+    padding-left: 294px;
+    padding-top: 58px;
+    margin-top: 0px;
+}
+.watch-image{
+    background-image: url("../images/watch.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
