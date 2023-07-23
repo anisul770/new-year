@@ -75,6 +75,7 @@ body {
     color: #151414;
     font-size: 40px;
     font-weight: 700;
+    margin-bottom: 24px;
 }
 
 .about-info {
@@ -82,10 +83,46 @@ body {
     color: #444343;
     font-size: 16px;
     font-weight: 400;
+    margin-top: 0;
 }
 
 .about-list {
     color: #444343;
     font-size: 16px;
     font-weight: 400;
+    margin-top: 16px;
+}
+
+/* plan styles named skill */
+.skills-title {
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.skills {
+    margin-top: 180px;
+}
+
+.skill-set {
+    display: flex;
+    margin: 0 230px;
+    justify-content: space-between;
+}
+
+.skill {
+    text-align: center;
+}
+
+.skill-info {
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.skill-title {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
 }
