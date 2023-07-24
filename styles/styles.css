@@ -128,7 +128,7 @@ body {
 }
 
 /* Last image part */
-.watch{
+.watch {
     margin-top: 136px;
     margin-bottom: 130px;
 }
@@ -159,18 +159,72 @@ body {
     padding: 21px 36px;
     border: none;
 }
-.call-now{
+
+.call-now {
     padding-left: 294px;
     padding-bottom: 59px;
     margin-top: 24px;
 }
-.gradient-title{
+
+.gradient-title {
     padding-left: 294px;
     padding-top: 58px;
     margin-top: 0px;
 }
-.watch-image{
+
+.watch-image {
     background-image: url("../images/watch.png");
     background-repeat: no-repeat;
     background-position-x: center;
+}
+
+/* footer styles */
+.footer-container {
+    display: flex;
+    background-color: #151414;
+    padding: 130px 230px;
+    justify-content: space-between;
+}
+
+.column1-title {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+
+.column1-info {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    width: 485px;
+}
+
+.column2-title {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+.column2 input {
+    background-color: #151414;
+    color: #F3F3F3;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 21px 158px 21px 21px;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+}
+
+.icons {
+    display: flex;
+    gap: 10px;
+}
+.column-footer{
+    margin-top: 16px;
+}
+.icons{
+    margin-top: 32px;
 }
